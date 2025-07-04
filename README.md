@@ -4,7 +4,7 @@ This is a simple Python-based tool to merge multiple PDF files into a single fil
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structur
 
 ```
 
